@@ -1,36 +1,27 @@
 html
 {width: 100%;
-height:100%;
-}
+height:100%;}
 nav li{ display: inline-block;
 	border: solid;
-	border-color: white	
-	border-width: 40px 40px 40px;
-	margin: - 1px 0 0;
-}
-
-h1{color: black
+	align-content: center;
+	font-size: 30px;
+	border-color: #BFB5AF;
+	border-width: 30px 160px 30px;
+	margin:10px 10px 10px; 
+	color: black;}
+h1{color: #5b507a;
 	font-style: bold;
 	font-family:times  ;
-	font-size: 40px;
-
-}
-p{ color: black;
-font-size: 500%
-}
-p{font-style: 
-
-}
+	text-align: center;
+	font-size: 60px;
+	font-variant-position: center;}
+label{ font-size: 20px;}
+p{ color: white;
+font-size: 500%}
 body{
 	width: 100% 
 	height:100%;
 	background-image: url(Nippy.png);
-	background-position: center center;
+	background-position: bottom;
 	background-repeat: repeat-x;
-	background-color: #CDD7D6
-
-
-
-
-
-}
+	background-color: #BFB5AF;}
